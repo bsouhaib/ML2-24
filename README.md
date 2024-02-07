@@ -12,10 +12,11 @@ This is a repository to organize the teaching material for [Machine Learning II]
 # Content
 
 - Week 1 (Feb. 5-9). 
-  - ...
+    - Lecture 1 (Feb. 9): Introduction 
 
 - Week 2 (Feb. 12-16). 
-  - ...
+   - Lecture 2 (Feb. 14):
+   - Lab 1 (Feb. 15):
   
 - Week 3 (Feb. 19-23). 
   - ...
