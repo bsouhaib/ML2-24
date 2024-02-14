@@ -26,12 +26,10 @@ This is a repository to organize the teaching material for [Machine Learning II]
 
 - Week 2 (Feb. 12-16). 
    - Lecture 2 (Feb. 14)
-       - IAML Videos 
-      - [Introduction to Intuition for the Algorithms of ML](https://youtu.be/7o9TMQAHgkQ)
-      - [Basic Problem of ML](https://youtu.be/-TEsnSxxm0M)
-    - PPA book reading for the next lecture
-      - Chapter 1 (Introduction)
-      - Chapter 2 (Fundamentals of Prediction)
+      - IAML Videos
+        - LossFunctions, OckhamsRazor, EvaluationMeasures, ROC1, ROC2, ImbalancedData, ROC3 
+      - PPA book reading for the next lecture
+        - Chapter 3 (Supervised Learning)
    - Lab 1 (Feb. 15):
   
 - Week 3 (Feb. 19-23). 
