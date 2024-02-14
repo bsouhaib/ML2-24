@@ -8,11 +8,21 @@ This is a repository to organize the teaching material for [Machine Learning II]
 
 # Project 
 - TBA
-  
+
+# Online content
+- [Intuition for the Algorithms of Machine Learning] (AML)](https://www.youtube.com/playlist?list=PLNeXFnYrCJneoY_rKtWJy833YiMrCRi5f)
+- [Patterns, predictions, and actions (PPA): a story about machine learning](https://mlstory.org/)
+
 # Content
 
 - Week 1 (Feb. 5-9).
-  - Lecture 1 (Feb. 9): Introduction 
+  - Lecture 1 (Feb. 9): Introduction
+    - IAML Videos 
+      - [Introduction to Intuition for the Algorithms of ML](https://youtu.be/7o9TMQAHgkQ)
+      - [Basic Problem of ML](https://youtu.be/-TEsnSxxm0M)
+    - PPA book reading for next lecture
+      - Chapter 1 (Introduction)
+      - Chapter 2 (Fundamentals of prediction)
 
 - Week 2 (Feb. 12-16). 
    - Lecture 2 (Feb. 14):
