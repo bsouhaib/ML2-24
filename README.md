@@ -26,8 +26,10 @@ This is a repository to organize the teaching material for [Machine Learning II]
 
 - Week 2 (Feb. 12-16). 
    - Lecture 2 (Feb. 14)
-      - IAML Videos
-        - LossFunctions, OckhamsRazor, EvaluationMeasures, ROC1, ROC2, ImbalancedData, ROC3 
+      - IAML Videos (margin, classification loss functions, expected training and test error as a function of model complexity or sample size, etc)
+        - LossFunctions, OckhamsRazor, EvaluationMeasures, ROC1, ROC2, ImbalancedData, ROC3
+     - Other topics
+       - 
       - PPA book reading for the next lecture
         - Chapter 3 (Supervised Learning)
    - Lab 1 (Feb. 15):
