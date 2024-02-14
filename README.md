@@ -10,8 +10,8 @@ This is a repository to organize the teaching material for [Machine Learning II]
 - TBA
 
 # Online content
-- (AML) [Intuition for the Algorithms of Machine Learning](https://www.youtube.com/playlist?list=PLNeXFnYrCJneoY_rKtWJy833YiMrCRi5f)
-- (PPA)[Patterns, predictions, and actions: a story about machine learning](https://mlstory.org/)
+- (IAML) [Intuition for the Algorithms of Machine Learning](https://www.youtube.com/playlist?list=PLNeXFnYrCJneoY_rKtWJy833YiMrCRi5f)
+- (PPA) [Patterns, predictions, and actions: a story about machine learning](https://mlstory.org/)
 
 # Content
 
