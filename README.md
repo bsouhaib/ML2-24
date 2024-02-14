@@ -21,15 +21,15 @@ This is a repository to organize the teaching material for [Machine Learning II]
       - [Introduction to Intuition for the Algorithms of ML](https://youtu.be/7o9TMQAHgkQ)
       - [Basic Problem of ML](https://youtu.be/-TEsnSxxm0M)
     - PPA book reading for the next lecture
-      - Chapter 1 (Introduction)
-      - Chapter 2 (Fundamentals of Prediction)
+      - Chapter 1 ([Introduction](https://mlstory.org/introduction.html))
+      - Chapter 2 ([Fundamentals of Prediction](https://mlstory.org/prediction.html))
 
 - Week 2 (Feb. 12-16). 
    - Lecture 2 (Feb. 14)
       - IAML Videos (margin, classification loss functions, expected training and test error as a function of model complexity or sample size, etc)
         - LossFunctions, OckhamsRazor, EvaluationMeasures, ROC1, ROC2, ImbalancedData, ROC3
       - PPA book reading for the next lecture
-        - Chapter 3 (Supervised Learning)
+        - Chapter 3 ([Supervised Learning](https://mlstory.org/supervised.html))
    - Lab 1 (Feb. 15):
   
 - Week 3 (Feb. 19-23). 
