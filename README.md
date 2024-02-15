@@ -30,7 +30,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
         - LossFunctions, OckhamsRazor, EvaluationMeasures, ROC1, ROC2, ImbalancedData, ROC3
       - PPA book reading for the next lecture
         - Chapter 3 ([Supervised Learning](https://mlstory.org/supervised.html))
-   - Lab 1 (Feb. 15):
+   - Lab 1 (Feb. 15): : The perceptron learning model [[lab (PDF)]](./labs/The_perceptron_learning_model/The_perceptron_learning_model.pdf)
   
 - Week 3 (Feb. 19-23). 
   - ...
