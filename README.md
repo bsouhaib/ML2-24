@@ -34,6 +34,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
   
 - Week 3 (Feb. 19-23). 
   - ...
+  - Lab 2 (Feb. 23): The perceptron learning model [[lab (PDF)]](./labs/The_perceptron_learning_model/The_perceptron_learning_model.pdf) [(Solution)](./labs/The_perceptron_learning_model/The_perceptron_learning_model_solution.ipynb)
 
 - Week 4 (Feb. 26 - Mar. 1). 
   - ...
