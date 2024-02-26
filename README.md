@@ -52,7 +52,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
     - Linear classification and Optimisation (continue)
   - Lecture 7 (Mar. 6)
     - Statistical Learning Theory
-  - Lab 3 (Mar. 8)
+  - Lab 5 (Mar. 8)
     - Linear classification and Optimisation (continue)
   - Lecture 8 (Mar. 8)
     - Statistical Learning Theory
