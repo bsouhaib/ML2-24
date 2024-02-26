@@ -46,7 +46,12 @@ This is a repository to organize the teaching material for [Machine Learning II]
     -  PPA book Chapter 3
 
 - Week 5 (Mar. 4-8). 
-  - 
+  - Lecture 6 (Mar. 4)
+    - Statistical Learning Theory
+  - Lecture 7 (Mar. 6)
+    - Statistical Learning Theory
+  - Lab 3 (Mar. 8)
+  - Lecture 8 (Mar. 8)
 
 - Week 6 (Mar. 11-15). 
   - ...
