@@ -37,13 +37,16 @@ This is a repository to organize the teaching material for [Machine Learning II]
     - PPA book Chapter 2 Proof of 2 Lemmas: 
       - Lemma 1: Optimal Classifier
       - Lemma 2: Neyman-Pearson Lemma
-  - Lab 2 (Feb. 23): The perceptron learning model [[lab (PDF)]](./labs/The_perceptron_learning_model/The_perceptron_learning_model.pdf) [(Solution)](./labs/The_perceptron_learning_model/The_perceptron_learning_model_solution.ipynb)
+  - Lab 2 (Feb. 23): The perceptron learning model (Continued) [[lab (PDF)]](./labs/The_perceptron_learning_model/The_perceptron_learning_model.pdf) [(Solution)](./labs/The_perceptron_learning_model/The_perceptron_learning_model_solution.ipynb)
 
-- Week 4 (Feb. 26 - Mar. 1). 
-  - PPA book Chapter 3
+- Week 4 (Feb. 26 - Mar. 1).
+  - Lecture 4 (Feb. 26)
+    - PPA book Chapter 3 (First part)
+  - Lecture 5 (Mar. 1)
+    -  PPA book Chapter 3
 
 - Week 5 (Mar. 4-8). 
-  - PPA book Chapter 3
+  - 
 
 - Week 6 (Mar. 11-15). 
   - ...
