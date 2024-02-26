@@ -43,7 +43,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lecture 4 (Feb. 26)
     - PPA book Chapter 3 (First part)
   -  Lab 3 (Feb. 29)
-    -  Linear classification and Optimisation
+    - Linear classification and Optimisation
   - Lecture 5 (Mar. 1)
     -  PPA book Chapter 3
 
