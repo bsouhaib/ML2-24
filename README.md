@@ -41,21 +41,21 @@ This is a repository to organize the teaching material for [Machine Learning II]
 
 - Week 4 (Feb. 26 - Mar. 1).
   - Lecture 4 (Feb. 26)
-    - PPA book Chapter 3 (First part)
+    - PPA book Chapter 2
   -  Lab 3 (Feb. 29)
      - Linear classification and Optimisation [[lab (PDF)]](./labs/Linear_classification_and_optimisation/Linear_classification_and_optimisation.pdf)
   - Lecture 5 (Mar. 1)
     -  PPA book Chapter 3
 
-- Week 5 (Mar. 4-8). 
-  - Lab 4 (Mar. 4)
-    - Linear classification and Optimisation (continue)
+- Week 5 (Mar. 4-8).
+  - Lecture 6 (Mar. 4)
+    - PPA book Chapter 3 + Videos "Statistical Learning Theory"    
   - Lecture 7 (Mar. 6)
-    - Statistical Learning Theory
+    - Book reading: Chapter 4 
   - Lab 5 (Mar. 8)
     - Linear classification and Optimisation (continue)
   - Lecture 8 (Mar. 8)
-    - Statistical Learning Theory
+    - Videos "Statistical Learning Theory"
 
 - Week 6 (Mar. 11-15). 
   - ...
