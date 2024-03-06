@@ -68,11 +68,15 @@ This is a repository to organize the teaching material for [Machine Learning II]
 - Week 7 (Mar. 18-22). 
   - Lecture 10 (Mar. 18)
   - Lab 8 (Mar. 21)
-    - SLT
+    - Linear Regression
   - Lecture 11 (Mar. 22)
 
 - Week 8 (Mar. 25-29). 
-  - ...
+  - Lab 9 (Mar. 25)
+    -  SLT
+  -  Lecture (Mar. 28)
+  - Lab 10 (Mar. 29)
+    - 
 
 
 **Spring Break**
