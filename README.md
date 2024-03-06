@@ -63,10 +63,13 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lab 6 (Mar. 14)
     - Linear classification and Optimisation (continue)
   - Lab 7 (Mar. 15)
-    - SLT
+    - Linear Regression
 
 - Week 7 (Mar. 18-22). 
-  - ...
+  - Lecture 10 (Mar. 18)
+  - Lab 8 (Mar. 21)
+    - SLT
+  - Lecture 11 (Mar. 22)
 
 - Week 8 (Mar. 25-29). 
   - ...
