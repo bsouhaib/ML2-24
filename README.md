@@ -58,7 +58,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
     - Videos "Statistical Learning Theory"
 
 - Week 6 (Mar. 11-15). 
-  - Lecture 9 (Mar. 12)
+  - Lecture 9 (Mar. 13)
     - Videos "Statistical Learning Theory"
   - Lab 6 (Mar. 14)
     - Linear classification and Optimisation (continue)
