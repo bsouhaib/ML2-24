@@ -12,6 +12,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
 # Online content
 - (IAML) [Intuition for the Algorithms of Machine Learning](https://www.youtube.com/playlist?list=PLNeXFnYrCJneoY_rKtWJy833YiMrCRi5f)
 - (PPA) [Patterns, predictions, and actions: a story about machine learning](https://mlstory.org/)
+- (LFD) [Learning from data](https://work.caltech.edu/telecourse)
 
 # Content
 
@@ -49,17 +50,18 @@ This is a repository to organize the teaching material for [Machine Learning II]
 
 - Week 5 (Mar. 4-8).
   - Lecture 6 (Mar. 4)
-    - PPA book Chapter 3 + Videos "Statistical Learning Theory"    
+    - PPA book Chapter 3 + IAML Videos "Statistical Learning Theory"    
   - Lecture 7 (Mar. 6)
     - Book reading: Chapter 4 
   - Lab 5 (Mar. 8)
     - Linear classification and Optimisation (continue)
   - Lecture 8 (Mar. 8)
-    - Videos "Statistical Learning Theory"
+    - IAML Videos "Statistical Learning Theory"
 
 - Week 6 (Mar. 11-15). 
   - Lecture 9 (Mar. 13)
-    - Videos "Statistical Learning Theory"
+    - IAML Videos "Statistical Learning Theory" (8-11)
+    - LFD Videos "Lecture 06 - Theory of Generalization" (Proof that the growth function is bounded by a polynomial when we have a breakpoint)
   - Lab 6 (Mar. 14)
     - Linear classification and Optimisation (continue)
   - Lab 7 (Mar. 15)
