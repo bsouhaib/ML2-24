@@ -63,9 +63,9 @@ This is a repository to organize the teaching material for [Machine Learning II]
     - IAML Videos "Statistical Learning Theory" (8-11)
     - LFD Videos "Lecture 06 - Theory of Generalization" (Proof that the growth function is bounded by a polynomial when we have a breakpoint)
   - Lab 6 (Mar. 14)
-    - Linear classification and Optimisation (continue)
+    - Linear classification and Optimisation (continue) [(Solution)](./labs/Linear_classification/Linear_classification_and_optimisation_solution.pdf)
   - Lab 7 (Mar. 15)
-    - Linear Regression
+    - Linear Regression [[lab (PDF)]](./labs/Linear_regression/Linear_regression.pdf)
 
 - Week 7 (Mar. 18-22). 
   - Lecture 10 (Mar. 18)
