@@ -71,6 +71,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lab 8 (Mar. 21)
     - Linear Regression (continue) [(Solution)](./labs/Linear_regression/Linear_regression_solution.pdf) + Learning Theory [[lab (PDF)]](./labs/Learning_theory/Learning_Theory.pdf)
   - Lecture 10 (Mar. 22)
+    - Neural Networks (3Blue1Brown)  (https://www.youtube.com/watch?v=aircAruvnKk) 
 
 - Week 8 (Mar. 25-29). 
   - Lab 9 (Mar. 25)
