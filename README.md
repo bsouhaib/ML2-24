@@ -76,7 +76,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
 - Week 8 (Mar. 25-29). 
   - Lab 9 (Mar. 25)
     -  SLT
-  -  Lecture 12 (Mar. 28)
+  -  Lecture 11 (Mar. 28)
   - Lab 10 (Mar. 29)
     - SLT (continue)
 
