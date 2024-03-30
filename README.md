@@ -77,8 +77,8 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lab 9 (Mar. 25)
     -  SLT
   -  Lecture 11 (Mar. 28)
-      - Backpropagation  [[Slides (PDF)]](https://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec04.pdf)
-      - Generalization in Neural Networks  [[Slides (PDF)]](https://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec12.pdf)
+      - Backpropagation  [[Slides (PDF)]](https://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec04.pdf) [[Notes (PDF)]](https://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/readings/L04%20Backpropagation.pdf)
+      - Generalization in Neural Networks  [[Slides (PDF)]](https://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec12.pdf)  [[Notes (PDF)]](https://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/readings/L12%20Generalization.pdf)
 
   - Lab 10 (Mar. 29)
     - SLT (continue)
