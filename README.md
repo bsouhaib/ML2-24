@@ -77,8 +77,12 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lab 9 (Mar. 25)
     -  SLT
   -  Lecture 11 (Mar. 28)
+    - Backpropagation  [[Slides (PDF)]]([./labs/Learning_theory/Learning_Theory.pdf](https://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec04.pdf))
+    - Generalization in Neural Networks  [[Slides (PDF)]]([./labs/Learning_theory/Learning_Theory.pdf](https://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec12.pdf))  
+
   - Lab 10 (Mar. 29)
     - SLT (continue)
+
 
 
 **Spring Break**
