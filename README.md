@@ -53,7 +53,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
     - PPA book Chapter 3 + IAML Videos "Statistical Learning Theory"    
   - Lecture 7 (Mar. 6)
     - Book reading: Chapter 4 
-  - Lab 5 (Mar. 8)
+  - Lab 4 (Mar. 8)
     - Linear classification and Optimisation (continue)
   - Lecture 8 (Mar. 8)
     - IAML Videos "Statistical Learning Theory"
@@ -62,25 +62,25 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lecture 9 (Mar. 13)
     - IAML Videos "Statistical Learning Theory" (8-11)
     - LFD Videos "Lecture 06 - Theory of Generalization" (Proof that the growth function is bounded by a polynomial when we have a breakpoint)
-  - Lab 6 (Mar. 14)
+  - Lab 5 (Mar. 14)
     - Linear classification and Optimisation (continue) [(Solution)](./labs/Linear_classification_and_optimisation/Linear_classification_and_optimisation_solution.pdf)
-  - Lab 7 (Mar. 15)
+  - Lab 6 (Mar. 15)
     - Linear Regression [[lab (PDF)]](./labs/Linear_regression/Linear_regression.pdf)
 
 - Week 7 (Mar. 18-22). 
-  - Lab 8 (Mar. 21)
+  - Lab 7 (Mar. 21)
     - Linear Regression (continue) [(Solution)](./labs/Linear_regression/Linear_regression_solution.pdf) + Learning Theory [[lab (PDF)]](./labs/Learning_theory/Learning_Theory.pdf)
   - Lecture 10 (Mar. 22)
     - Neural Networks (3Blue1Brown)  (https://www.youtube.com/watch?v=aircAruvnKk) 
 
 - Week 8 (Mar. 25-29). 
-  - Lab 9 (Mar. 25)
+  - Lab 8 (Mar. 25)
     -  SLT
   -  Lecture 11 (Mar. 28)
       - Backpropagation  [[Slides (PDF)]](https://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec04.pdf) [[Notes (PDF)]](https://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/readings/L04%20Backpropagation.pdf)
       - Generalization in Neural Networks  [[Slides (PDF)]](https://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec12.pdf)  [[Notes (PDF)]](https://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/readings/L12%20Generalization.pdf)
 
-  - Lab 10 (Mar. 29)
+  - Lab 9 (Mar. 29)
     - SLT (continue)
 
 
@@ -90,21 +90,21 @@ This is a repository to organize the teaching material for [Machine Learning II]
 
 - Week 9 (Apr. 15-19). 
   - Lecture 12 (Apr. 17)
-  - Lab 11 (Apr. 18)
+  - Lab 10 (Apr. 18)
     - Introduction to PyTorch [[Lab (Notebook)]](./labs/Neural_network/Introduction_to_PyTorch.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML2-24/blob/main/labs/Neural_network/Introduction_to_PyTorch.ipynb))
     - Backpropagation [[Lab (Notebook)]](./labs/Neural_network/neural_network.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML2-24/blob/main/labs/Neural_network/neural_network.ipynb))
     
 - Week 10 (Apr. 22-26). 
   - Lecture 13 (Apr. 25)
-  - Lab 12 (Apr. 25)
+  - Lab 11 (Apr. 25)
     
 - Week 11 (Apr. 29 - May 3). 
-  - Lab 13 (May 2)
+  - Lab 12 (May 2)
   - Lecture 14 (May 3)
 
 - Week 12 (May 6-10). 
   - Lecture 15 (May 10)
 
 - Week 13 (May 13-17). 
-  - Lab 15 (May 16)
+  - Lab 13 (May 16)
   - Lecture 16 (May 17)
