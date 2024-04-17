@@ -91,7 +91,8 @@ This is a repository to organize the teaching material for [Machine Learning II]
 - Week 9 (Apr. 15-19). 
   - Lecture 12 (Apr. 17)
   - Lab 11 (Apr. 18)
-    - Introduction to PyTorch ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML2-24/blob/main/labs/Neural_network/Introduction_to_PyTorch.ipynb))
+    - Introduction to PyTorch [[Lab (Notebook)]](./labs/Neural_network/Introduction_to_PyTorch.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML2-24/blob/main/labs/Neural_network/Introduction_to_PyTorch.ipynb))
+    - Backpropagation [[Lab (Notebook)]](./labs/Neural_network/neural_network.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML2-24/blob/main/labs/Neural_network/neural_network.ipynb))
     
 - Week 10 (Apr. 22-26). 
   - ...
