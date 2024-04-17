@@ -95,13 +95,16 @@ This is a repository to organize the teaching material for [Machine Learning II]
     - Backpropagation [[Lab (Notebook)]](./labs/Neural_network/neural_network.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML2-24/blob/main/labs/Neural_network/neural_network.ipynb))
     
 - Week 10 (Apr. 22-26). 
-  - ...
+  - Lecture 13 (Apr. 25)
+  - Lab 12 (Apr. 25)
     
 - Week 11 (Apr. 29 - May 3). 
-  - ...
+  - Lab 13 (May 2)
+  - Lecture 14 (May 3)
 
 - Week 12 (May 6-10). 
-  - ...
+  - Lecture 15 (May 10)
 
 - Week 13 (May 13-17). 
-  - ...
+  - Lab 15 (May 16)
+  - Lecture 16 (May 17)
