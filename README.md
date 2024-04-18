@@ -92,7 +92,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lecture 12 (Apr. 17)
   - Lab 10 (Apr. 18)
     - Introduction to PyTorch [[Lab (Notebook)]](./labs/Neural_network/Introduction_to_PyTorch.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML2-24/blob/main/labs/Neural_network/Introduction_to_PyTorch.ipynb))
-    - Backpropagation [[Lab (Notebook)]](./labs/Neural_network/neural_network.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML2-24/blob/main/labs/Neural_network/neural_network.ipynb))
+    - Backpropagation [[Lab (Notebook)]](./labs/Neural_network/neural_network.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML2-24/blob/main/labs/Neural_network/neural_network.ipynb)) Solution [(PDF)](./labs/Neural_network/nn_derivation.pdf) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML2-24/blob/main/labs/Neural_network/neural_network_solution.ipynb))
     
 - Week 10 (Apr. 22-26). 
   - Lecture 13 (Apr. 25)
