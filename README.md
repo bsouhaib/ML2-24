@@ -97,6 +97,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
 - Week 10 (Apr. 22-26). 
   - Lecture 13 (Apr. 25)
   - Lab 11 (Apr. 25)
+    - Generalization in Neural Networks [[Lab (Notebook)]](./labs/Neural_network/Generalization.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML2-24/blob/main/labs/Neural_network/Generalization.ipynb))
     
 - Week 11 (Apr. 29 - May 3). 
   - Lab 12 (May 2)
