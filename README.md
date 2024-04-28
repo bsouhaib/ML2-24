@@ -17,7 +17,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
 # Content
 
 - Week 1 (Feb. 5-9).
-  - Lecture 1 (Feb. 9): Introduction
+  - Lecture 1 (Feb. 9): Introduction [./lecture1-intro.pdf]
     - IAML Videos 
       - [Introduction to Intuition for the Algorithms of ML](https://youtu.be/7o9TMQAHgkQ)
       - [Basic Problem of ML](https://youtu.be/-TEsnSxxm0M)
