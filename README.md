@@ -101,7 +101,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
     
 - Week 11 (Apr. 29 - May 3). 
   - Lab 12 (May 2)
-    - Convolutional Neural Network
+    - Convolutional Neural Networks
   - Lab 13 (May 3)
 
 - Week 12 (May 6-10). 
