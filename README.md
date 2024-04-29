@@ -71,7 +71,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lab 7 (Mar. 21)
     - Linear Regression (continue) [(Solution)](./labs/Linear_regression/Linear_regression_solution.pdf) + Learning Theory [[lab (PDF)]](./labs/Learning_theory/Learning_Theory.pdf)
   - Lecture 10 (Mar. 22)
-    - Neural Networks (3Blue1Brown)  (https://www.youtube.com/watch?v=aircAruvnKk) 
+    - [Neural Networks (3Blue1Brown)](https://www.youtube.com/watch?v=aircAruvnKk)
 
 - Week 8 (Mar. 25-29). 
   - Lab 8 (Mar. 25)
@@ -90,7 +90,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
 
 - Week 9 (Apr. 15-19). 
   - Lecture 12 (Apr. 17)
-     - Neural Networks (3Blue1Brown)  (https://www.youtube.com/watch?v=aircAruvnKk) 
+     - [Neural Networks (3Blue1Brown)](https://www.youtube.com/watch?v=aircAruvnKk)
   - Lab 10 (Apr. 18)
     - Introduction to PyTorch [[Lab (Notebook)]](./labs/Neural_network/Introduction_to_PyTorch.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML2-24/blob/main/labs/Neural_network/Introduction_to_PyTorch.ipynb))
     - Backpropagation [[Lab (Notebook)]](./labs/Neural_network/neural_network.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML2-24/blob/main/labs/Neural_network/neural_network.ipynb)) Solution [(PDF)](./labs/Neural_network/nn_derivation.pdf) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML2-24/blob/main/labs/Neural_network/neural_network_solution.ipynb))
