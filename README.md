@@ -101,11 +101,11 @@ This is a repository to organize the teaching material for [Machine Learning II]
     
 - Week 11 (Apr. 29 - May 3). 
   - Lab 12 (May 2)
-  - Lecture 14 (May 3)
+  - Lab 13 (May 3)
 
 - Week 12 (May 6-10). 
-  - Lecture 15 (May 10)
+  - Lecture 14 (May 10)
 
 - Week 13 (May 13-17). 
-  - Lab 13 (May 16)
-  - Lecture 16 (May 17)
+  - Lab 14 (May 16)
+  - Lecture 15 (May 17)
