@@ -106,9 +106,10 @@ This is a repository to organize the teaching material for [Machine Learning II]
     - Backpropagation II
   - Lab 13 (May 3)
 
-- Week 12 (May 6-10). 
+- Week 12 (May 6-10).
+  - Lab 14 (May 6)
   - Lecture 14 (May 10)
 
 - Week 13 (May 13-17). 
-  - Lab 14 (May 16)
+  - Lab 15 (May 16)
   - Lecture 15 (May 17)
