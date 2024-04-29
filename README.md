@@ -97,7 +97,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
     
 - Week 10 (Apr. 22-26). 
   - Lecture 13 (Apr. 25)
-     - [Neural Networks (3Blue1Brown)(https://www.youtube.com/watch?v=aircAruvnKk) + [Deep Generative Models](https://www.youtube.com/watch?v=IZgvgLy1wyg&list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B)
+     - [Neural Networks (3Blue1Brown)](https://www.youtube.com/watch?v=aircAruvnKk) + [Deep Generative Models](https://www.youtube.com/watch?v=IZgvgLy1wyg&list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B)
   - Lab 11 (Apr. 25)
     - Generalization in Neural Networks [[Lab (Notebook)]](./labs/Neural_network/Generalization.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML2-24/blob/main/labs/Neural_network/Generalization.ipynb))
     
