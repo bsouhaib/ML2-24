@@ -99,11 +99,11 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lecture 13 (Apr. 25)
      - [Neural Networks (3Blue1Brown)](https://www.youtube.com/watch?v=aircAruvnKk) + [Deep Generative Models](https://www.youtube.com/watch?v=IZgvgLy1wyg&list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B)
   - Lab 11 (Apr. 25)
-    - Generalization in Neural Networks [[Lab (Notebook)]](./labs/Neural_network/Generalization.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML2-24/blob/main/labs/Neural_network/Generalization.ipynb))
+    - Generalization in Neural Networks [[Lab (Notebook)]](./labs/Neural_network/Generalization.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML2-24/blob/main/labs/Neural_network/Generalization.ipynb))  [[Solution]](./labs/Neural_network/Generalization_Solution.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML2-24/blob/main/labs/Neural_network/Generalization_Solution.ipynb))
     
 - Week 11 (Apr. 29 - May 3). 
   - Lab 12 (May 2)
-    - Backpropagation II
+    - Backpropagation II [[Lab (Notebook)]](./labs/Neural_network/CNN.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML2-24/blob/main/labs/Neural_network/CNN.ipynb))
   - Lab 13 (May 3)
 
 - Week 12 (May 6-10).
