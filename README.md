@@ -105,7 +105,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lab 12 (May 2)
     - [Convolutional Neural Networks](https://www.youtube.com/watch?v=BtlSW8TEGUw&list=PLQ8Y4kIIbzy_pGm2QAwF625E6nmcRu2sU&index=11) [[Lab (Notebook)]](./labs/Neural_network/CNN.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML2-24/blob/main/labs/Neural_network/CNN.ipynb)) [[Solution]](./labs/Neural_network/CNN_Solution.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML2-24/blob/main/labs/Neural_network/CNN_Solution.ipynb))
   - Lab 13 (May 3)
-    - [Recurrent Neural Networks](https://www.youtube.com/watch?v=cAbLwgt5feY&list=PLQ8Y4kIIbzy_pGm2QAwF625E6nmcRu2sU&index=11) [[Lab (Notebook)]](./labs/Neural_network/RNN.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML2-24/blob/main/labs/Neural_network/RNN.ipynb))
+    
 
 - Week 12 (May 6-10).
   - Lab 14 (May 6)
