@@ -111,8 +111,8 @@ This is a repository to organize the teaching material for [Machine Learning II]
 - Week 12 (May 6-10).
   - Lab 14 (May 6)
     - [GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLSNoO0m58Mh4UzpwymAsG2COY9nrJWBhf)
-  - Lecture 14 (May 10). [Deep Generative Models](https://www.youtube.com/watch?v=IZgvgLy1wyg&list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B)
+  - Lecture 14 (May 10). [Deep Generative Models](https://www.youtube.com/watch?v=IZgvgLy1wyg&list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B) (Lecture 1)
 
 - Week 13 (May 13-17). 
   - Lab 15 (May 16)
-  - Lecture 15 (May 17). [Deep Generative Models](https://www.youtube.com/watch?v=IZgvgLy1wyg&list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B)
+  - Lecture 15 (May 17). [Deep Generative Models](https://www.youtube.com/watch?v=IZgvgLy1wyg&list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B) (Lecture 2)
