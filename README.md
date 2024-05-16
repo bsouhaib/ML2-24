@@ -115,4 +115,5 @@ This is a repository to organize the teaching material for [Machine Learning II]
 
 - Week 13 (May 13-17). 
   - Lab 15 (May 16)
+    - [Variational Autoencoders](https://www.youtube.com/watch?v=3G5hWM6jqPk) (9:32 - 38:48)
   - Lecture 15 (May 17). [Deep Generative Models](https://www.youtube.com/watch?v=IZgvgLy1wyg&list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B) (Lecture 2)
